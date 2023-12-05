@@ -58,6 +58,7 @@ Companies:
 - [Microsoft](https://www.microsoft.com)
 - [Snowflake](https://www.snowflake.com/en/)
 - [Onehouse](https://www.onehouse.ai)
+- [The Modern Data Company](https://themoderndatacompany.com/)
 
 
 Data Engineering blogs of companies:
@@ -163,6 +164,7 @@ LinkedIn
 - [Marc Lamberti](https://www.linkedin.com/in/marclamberti)
 - [Simon Whiteley](https://www.linkedin.com/in/simon-whiteley-uk/)
 - [Dipankar Mazumdar](https://www.linkedin.com/in/dipankar-mazumdar/)
+- [Animesh Kumar](https://www.linkedin.com/in/anismiles/)
 
 Twitter / X 
 
